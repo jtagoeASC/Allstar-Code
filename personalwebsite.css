@@ -1,0 +1,46 @@
+#orangeBanner{
+	height:100px;
+	width: 75%;
+	margin:auto;
+	background-color: rgb(255,140,0);
+	margin-top: -10px;
+}
+
+
+#picDiv{
+	height:400px;
+	width:400px;
+	margin:auto;
+	margin-top:-55px;
+	background-image: url("http://i.forbesimg.com/media/lists/people/lebron-james_416x416.jpg");
+}
+
+#mainButton{
+	height: 50px;
+	width: 100px;
+	margin:auto;
+	background-color: rgb(7,63,25);
+	text-align: center;
+	color:rgb(255,255,255);
+}
+
+
+
+#mainButton2{
+	height: 50px;
+	width: 100px;
+	margin:auto;
+	background-color: rgb(7,63,25);
+	text-align: center;
+	color:rgb(255,255,255);
+
+
+
+#sideMarginleft{
+	height: 1000px;
+	width:12.5%;
+	margin-left: 2px;
+	background-color: rgb(84,84,84);
+	
+	
+}
